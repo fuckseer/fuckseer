@@ -3,7 +3,6 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Python+Developer;Building+Intelligent+AI+Applications+%F0%9F%A4%96;Automating+Business+Processes+%E2%9A%A1;Creating+Smart+Data+Solutions+%F0%9F%93%8A)
-  
   <br>
   
   ### 🎯 I Build AI-Powered Solutions That Work
